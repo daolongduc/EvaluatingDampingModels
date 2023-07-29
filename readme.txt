@@ -1,6 +1,6 @@
 This folder contains experimental data and Python codes to evaluate damping models for nonlinear pendulums.
 
-Please refer to the paper: Experimental evaluation of damping models for a nonlinear pendulum system (DOI: ---) for complete understanding of the codes.
+Please refer to the paper: Experimental evaluation of damping models for a nonlinear pendulum system (DOI: 10.1088/1361-6552/ace1ca) for complete understanding of the codes.
 
 All files must be placed in the same folder. The function of each file is as follows.
 -------
